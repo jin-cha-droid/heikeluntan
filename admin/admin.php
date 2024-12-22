@@ -6,7 +6,7 @@ $admin=true;
 $state="sign";
 $signin=false;
 $htmlmsg="";
-$passwordhash="$2y$10$"."uu85vjCBdefbIcXPTAifduFlmIVzaLX2GFJWvFPY0N18f9otKlJ0S";
+$passwordhash="121701"."121801";
 $psw0="";
 $psw1="";
 function addmessage($msg){
